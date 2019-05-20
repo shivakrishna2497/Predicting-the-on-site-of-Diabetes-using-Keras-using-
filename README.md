@@ -69,4 +69,10 @@ I fit the network with my training set(80%) by calling the fit() function on the
 5)Evaluate Network  
 
 
-I evaluated the performance of the network on the same training dataset and got a training accuracy of 76.55% and after making predictions in next step I evaluated the performance of the network using testdataset where I got a testing accuracy of 76.62%  6)Make Predictions  predictions will be in the range between 0 and 1 as there's a sigmoid activation function on the output layer and I converted them into a binary prediction for this classification task by rounding them
+I evaluated the performance of the network on the same training dataset and got a training accuracy of 76.55% and after making predictions in next step I evaluated the performance of the network using testdataset where I got a testing accuracy of 76.62%  
+
+
+6)Make Predictions 
+
+
+predictions will be in the range between 0 and 1 as there's a sigmoid activation function on the output layer and I converted them into a binary prediction for this classification task by rounding them
