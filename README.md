@@ -75,4 +75,4 @@ I evaluated the performance of the network on the same training dataset and got 
 6)Make Predictions 
 
 
-predictions will be in the range between 0 and 1 as there's a sigmoid activation function on the output layer and I converted them into a binary prediction for this classification task by rounding them
+Predictions will be in the range between 0 and 1 as there's a sigmoid activation function on the output layer and I converted them into a binary prediction for this classification task by rounding them
